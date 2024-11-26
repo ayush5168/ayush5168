@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img src="https://camo.githubusercontent.com/4e502a9d0d9061a2709398e885e27f5af3a5fbe6b99ec98dcc6a447477a8010e/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e676966" />
 <h1 align="center">Hi 👋, I'm ayush gabani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
